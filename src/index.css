@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "ode";
+    font-weight: 100 900;
+    font-display: swap;
+    font-style: normal;
+    font-named-instance: "Regular";
+    src: url(./assets/fonts/OdetoIdleGaming.woff2) format("woff2");
+    height: fit-content;
+}
+
+@font-face {
+    font-family: "ode";
+    font-weight: 100 900;
+    font-display: swap;
+    font-style: normal;
+    font-named-instance: "Regular";
+    src: url(./assets/fonts/OdetoIdleGaming.woff) format("woff");
+    height: fit-content;
+}
+
+@font-face {
+    font-family: "ode";
+    font-weight: 100 900;
+    font-display: swap;
+    font-style: normal;
+    font-named-instance: "Regular";
+    src: url(./assets/fonts/OdetoIdleGaming.ttf) format("ttf");
+    height: fit-content;
+}
+
+body {
+    background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: ode;
+}
+
+h5 {
+    font-size: 1rem;
+}
