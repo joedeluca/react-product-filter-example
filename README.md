@@ -1,6 +1,6 @@
 # Simple React/Tailwind Product Filter Example
 
-Designn is a 100% fake indie games online store.
+Concept for an indie games online store with simple product filter.
 
 Illustrator / PDF design file included.
 
